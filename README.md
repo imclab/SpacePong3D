@@ -1,8 +1,8 @@
 SpacePong3D
 ===========
 
-A simple 3D demo game that shows how to use three.js and threex helpers
-[Play SpacePong3D](http://erichlof.github.io/SpacePong3D/SpacePong3D.html)
+A simple 3D demo game that shows how to use three.js and threex helpers. <br>
+[play SpacePong3D](http://erichlof.github.io/SpacePong3D/SpacePong3D.html)
 \[[view source](https://github.com/erichlof/SpacePong3D/blob/master/SpacePong3D.html)\]
 
 To Do
