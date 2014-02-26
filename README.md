@@ -12,8 +12,7 @@ Mobile: slow Swipe to control paddle
 To Do
 -----
 * Make ball bounce off paddles in different directions, depending on hit location
-* Add title and menu page with instructions on how to play
-* Add space/stars skybox in the background
 * Add light outlines to the blue and red paddles (Tron-like effect)
+* Add title and menu page with instructions on how to play
+* Add space-themed skybox in the background
 * Add 3 or 4 sounds (ball bounce, ball hit paddle, ball miss paddle, power-up, etc..)
-* Add scoreboard at the top like old-fashioned Pong
